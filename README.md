@@ -1,10 +1,5 @@
 Electronic LIRA v 1.0
 
-What's new:
- - Fixed KGW exploit
- - Added main nodes on net.cpp
-================================
-
 http://www.liraelettronica.it
 
 Copyright (c) 2009-2013 Bitcoin Developers
